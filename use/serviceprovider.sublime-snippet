@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+use Illuminate\Support\ServiceProvider;
+]]></content>
+    <tabTrigger>use_serviceprovider</tabTrigger>
+</snippet>

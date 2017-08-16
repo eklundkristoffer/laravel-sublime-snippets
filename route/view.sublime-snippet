@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+Route::view('${1:endpoint}', '${2:view}');
+]]></content>
+    <tabTrigger>route_view</tabTrigger>
+</snippet>

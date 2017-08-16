@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Route::post('${1:endpoint}', function () {
+    //
+});
+]]></content>
+    <tabTrigger>route_post_f</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+Route::get('${1:endpoint}', '${2:controller}');
+]]></content>
+    <tabTrigger>route_get</tabTrigger>
+</snippet>

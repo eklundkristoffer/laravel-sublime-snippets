@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<a href="{{ route('${1:name}') }}">${2:Some Link}</a>
+]]></content>
+    <tabTrigger>route_hyperlink</tabTrigger>
+</snippet>

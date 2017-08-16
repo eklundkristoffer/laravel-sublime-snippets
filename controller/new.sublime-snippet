@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<?php
+
+namespace ${1:App\Http\Controllers};
+
+use App\Http\Controllers\Controller;
+
+class ${2:MyController} extends Controller
+{
+
+}
+]]></content>
+    <tabTrigger>controller_new</tabTrigger>
+</snippet>

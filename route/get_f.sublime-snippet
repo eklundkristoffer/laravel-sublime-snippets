@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Route::get('${1:endpoint}', function () {
+    //
+});
+]]></content>
+    <tabTrigger>route_get_f</tabTrigger>
+</snippet>

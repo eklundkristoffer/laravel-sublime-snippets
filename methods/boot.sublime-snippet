@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * Bootstrap any application services.
+ *
+ * @return void
+ */
+public function boot()
+{
+    ${1://}
+}
+]]></content>
+    <tabTrigger>method_boot</tabTrigger>
+</snippet>
